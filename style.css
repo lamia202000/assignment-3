@@ -1,0 +1,44 @@
+.color {
+    color: #FF4240;
+}
+
+/* shared button color */
+
+.shared-btn-color {
+
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 700;
+    background: #FF4240;
+
+
+}
+
+.nav-btn {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.backg-1 {
+    background-image: url(Images/2.png);
+}
+
+.backg-2 {
+    background-image: url(Images/3.png);
+
+}
+
+.backg-3 {
+    background-image: url(Images/4.png);
+    background-repeat: no-repeat;
+}
+
+
+.hr {
+    /* border-top: 1px dotted red; */
+    border-top: 1px dotted black;
+    margin-top: 2%;
+}
