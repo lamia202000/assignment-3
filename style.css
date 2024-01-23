@@ -42,3 +42,35 @@
     border-top: 1px dotted black;
     margin-top: 2%;
 }
+
+
+
+
+.touch-img-1 {
+    width: 374px;
+    height: 216px;
+    border-radius: 16px;
+    background: rgba(188, 237, 109, 0.10);
+    padding-left: 30px;
+    padding-top: 50px;
+}
+
+.touch-img-2 {
+    width: 374px;
+    height: 216px;
+    border-radius: 16px;
+    background: rgba(253, 221, 95, 0.10);
+    padding-left: 30px;
+    padding-top: 50px;
+    margin-top: 20px;
+}
+
+
+.touch-img-3 {
+    width: 374px;
+    height: 216px;
+    border-radius: 16px;
+    background: rgba(98, 156, 243, 0.10);
+    padding-top: 50px;
+    margin-top: 20px;
+}
