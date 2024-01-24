@@ -24,16 +24,23 @@
 
 .backg-1 {
     background-image: url(Images/2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
 }
 
 .backg-2 {
     background-image: url(Images/3.png);
-
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
 }
 
 .backg-3 {
     background-image: url(Images/4.png);
     background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
 }
 
 
@@ -87,16 +94,14 @@
 }
 
 .tex-area-2 {
-    width: 672px;
     height: 370px;
-    flex-shrink: 0;
     border-radius: 12px;
     background: rgba(19, 19, 24, 0.03);
 }
 
 .btn-2 {
     display: flex;
-    width: 672px;
+    width: 100%;
     color: #FFF;
     padding: 15px 24px;
     justify-content: center;
@@ -115,7 +120,8 @@
     border-radius: 12px;
 }
 
-.footer{
+.footer-sec {
     background-color: #131318;
-        height: 450px;
+   
+
 }
